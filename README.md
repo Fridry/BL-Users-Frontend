@@ -13,8 +13,6 @@ API para consulta de informações sobre uma empresa com base no CNPJ informado.
 
     yarn install
 
-Crie um arquivo .env ou altere o arquivo .env.exemple e complete com as informações solicitadas.
-
 ## Iniciar a Aplicação
 
     yarn start
